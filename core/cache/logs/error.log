@@ -1,0 +1,1075 @@
+[2017-04-18 12:40:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+tv_thumb]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 12:40:54] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+tv_thumb]]]]` encountered
+[2017-04-18 12:40:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+tv_thumb]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 12:40:54] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+tv_thumb]]]]` encountered
+[2017-04-18 12:40:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+tv_thumb]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 12:40:54] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+tv_thumb]]]]` encountered
+[2017-04-18 13:26:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+image]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 13:26:07] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+image]]]]` encountered
+[2017-04-18 13:28:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+image]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 13:28:10] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+image]]]]` encountered
+[2017-04-18 13:28:51] (ERROR @ E:\domains\homework9\core\model\modx\modmenu.class.php : 67) The menu cache key menus/topnav/ru could not be written.
+[2017-04-18 13:28:51] (ERROR @ E:\domains\homework9\core\model\modx\modmenu.class.php : 67) The menu cache key menus/usernav/ru could not be written.
+[2017-04-18 13:29:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+tv.image]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 13:29:29] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+tv.image]]]]` encountered
+[2017-04-18 13:33:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+tv.image]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 13:33:36] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+tv.image]]]]` encountered
+[2017-04-18 13:35:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+tv.image]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 13:35:02] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+tv.image]]]]` encountered
+[2017-04-18 13:37:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `assets/template/img/post-image.jpg` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 13:37:31] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~assets/template/img/post-image.jpg]]` encountered
+[2017-04-18 22:01:13] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:01:13] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 22:03:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:03:20] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 22:04:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:04:04] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 22:08:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:08:36] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 22:10:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:10:02] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 22:13:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:13:57] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 22:19:06] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:19:06] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 22:26:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:26:18] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 22:33:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:33:08] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 22:34:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 22:34:00] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:04:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:04:56] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:08:14] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:08:14] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:08:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:08:18] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:09:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:09:04] (ERROR in resource 4 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:11:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:11:55] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:12:22] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:12:22] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:12:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:12:42] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:16:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:16:31] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:19:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:19:28] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:20:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:20:17] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:20:17] (ERROR @ E:\domains\homework9\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 3, 3' at line 1
+[2017-04-18 23:20:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:20:18] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:20:18] (ERROR @ E:\domains\homework9\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 3' at line 1
+[2017-04-18 23:21:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:21:26] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:22:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:22:21] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:26:30] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:26:30] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:26:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:26:57] (ERROR in resource 11 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:28:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:28:23] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:31:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:31:44] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:34:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:34:19] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:41:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:41:45] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:42:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:42:18] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:42:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:42:46] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:45:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:45:01] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:46:47] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:46:47] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:50:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:50:48] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-18 23:57:13] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-18 23:57:13] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:01:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:01:34] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:02:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:02:38] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:04:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:04:32] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:05:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:05:16] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:06:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:06:36] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:12:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:12:39] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:14:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:14:51] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:15:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:15:40] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:18:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:18:00] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:21:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:21:45] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:23:14] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:23:14] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:24:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:24:32] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:26:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:26:07] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:26:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:26:58] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:27:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:27:33] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:28:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:28:09] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:28:47] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:28:47] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:29:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:29:54] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:32:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:32:46] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:35:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:35:44] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:36:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:36:12] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:42:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:42:07] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:46:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:46:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:49:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:49:03] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:50:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:50:50] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:52:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:52:03] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 00:56:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 00:56:12] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 01:04:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 01:04:29] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 01:06:13] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 01:06:13] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 01:22:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 01:22:39] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 17:50:11] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/template
+[2017-04-19 17:51:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 17:51:27] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:02:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:02:24] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:12:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:12:45] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:12:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:12:48] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:13:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:13:37] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:14:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:14:48] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:15:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:15:04] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:15:22] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:15:22] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:15:41] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/template
+[2017-04-19 18:16:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:16:29] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:17:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:17:25] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:19:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:19:49] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:21:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:21:36] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:22:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:22:12] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:25:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:25:09] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:25:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:25:20] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:25:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:25:58] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:28:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:28:05] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:29:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:29:28] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:34:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:34:27] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:34:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:34:44] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 18:34:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 18:34:50] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:28:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:28:15] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:30:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:30:53] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:30:59] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:30:59] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:42:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:42:43] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:42:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:42:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:42:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:42:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:42:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:42:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:42:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:42:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:42:44] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 214) Could not cache source data for 2.
+[2017-04-19 19:42:44] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 19:43:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:43:18] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:43:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:43:18] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:43:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:43:18] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:43:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:43:18] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:43:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:43:18] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:43:18] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 214) Could not cache source data for 2.
+[2017-04-19 19:43:18] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 214) Could not cache source data for 2.
+[2017-04-19 19:43:18] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 19:47:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:47:12] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:48:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:48:37] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:48:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:48:37] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 19:48:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 19:48:37] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:09:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:09:57] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:09:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:09:58] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:09:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:09:58] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:11:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:11:38] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:11:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:11:38] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:11:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:11:38] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:11:38] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 20:17:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:17:08] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:17:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:17:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:17:08] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:17:08] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:17:08] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 20:19:04] (ERROR @ E:\domains\homework9\core\components\pdotools\model\pdotools\pdofetch.class.php : 1078) [pdoTools] Could not load collection of "modResource": Error 42S22: Unknown column 'datepublishedon' in 'order clause'
+[2017-04-19 20:19:04] (ERROR @ E:\domains\homework9\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0) AND `modResource`.`published` = 1 AND `modResource`.`deleted` = 0 )  ORDER BY' at line 1
+[2017-04-19 20:19:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\6.include.cache.php : 127) PHP warning: array_flip(): Can only flip STRING and INTEGER values!
+[2017-04-19 20:19:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\6.include.cache.php : 131) PHP warning: Invalid argument supplied for foreach()
+[2017-04-19 20:19:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:19:04] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:19:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:19:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:19:04] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:19:04] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:21:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:21:43] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:21:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:21:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:21:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:21:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:23:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:23:09] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:23:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:23:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:23:09] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:23:09] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:24:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:24:27] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:24:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:24:27] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:24:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:24:27] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:24:27] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 20:26:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:26:49] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:26:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:26:49] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:26:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:26:49] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:26:50] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 20:28:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:28:09] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:28:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:28:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:28:10] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:28:10] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:30:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:30:07] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:30:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:30:07] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:31:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:31:39] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:31:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:31:39] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:31:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:31:39] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:31:39] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 20:33:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:33:35] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:33:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:33:36] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:33:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:33:36] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:33:36] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 20:37:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:37:32] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:37:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:37:32] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:37:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:37:32] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:38:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:38:08] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:38:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:38:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:38:08] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:38:08] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:38:08] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 20:39:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:39:39] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:39:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:39:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:39:39] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:39:39] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 20:46:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 20:46:50] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:08:30] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:08:30] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:08:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:08:33] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:13:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:13:41] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:13:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:13:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:13:41] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:15:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:15:58] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:16:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:16:50] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:17:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:17:35] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:18:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:18:33] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:18:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:18:38] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:20:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:20:04] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:20:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:20:04] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:21:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:21:53] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:21:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:21:54] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:22:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:22:24] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:22:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:22:24] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:25:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:25:29] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:25:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:25:29] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:26:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:26:26] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:26:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:26:26] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:27:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:27:58] (ERROR in resource 4 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:28:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:28:03] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:44:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:44:37] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:45:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:45:16] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:45:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:45:53] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:46:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:46:53] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:47:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:47:42] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:48:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:48:34] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:48:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:48:50] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:48:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:48:54] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 21:50:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 21:50:20] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:02:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:02:00] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:07:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:07:26] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:07:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:07:29] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:07:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:07:45] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:09:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:09:05] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:09:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:09:10] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:09:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:09:53] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:09:59] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:09:59] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:11:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:11:57] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:11:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:11:57] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:12:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:12:10] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:13:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:13:02] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:16:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:16:33] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:16:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:16:33] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:16:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:16:56] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:16:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:16:56] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:17:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:17:36] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:17:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:17:38] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:18:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:18:20] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:18:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:18:20] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:18:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:18:20] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:18:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:18:20] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:18:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:18:44] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:18:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:18:45] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:18:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:18:45] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:18:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:18:56] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:19:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:19:04] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:19:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:19:16] (ERROR in resource 22 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:20:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:20:08] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:20:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:20:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:20:08] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:20:08] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:20:08] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 22:20:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:20:28] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:20:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:20:28] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:20:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:20:28] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:20:28] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 22:20:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:20:35] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:21:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:21:03] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:21:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:21:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:21:03] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:21:03] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-19 22:21:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:21:09] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:22:47] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:22:47] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:22:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:22:51] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:23:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:23:00] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:24:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:24:09] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:24:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:24:09] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:24:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:24:09] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:25:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:25:04] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:25:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:25:04] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:25:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:25:19] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:27:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:27:38] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:27:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:27:40] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:27:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:27:46] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:29:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:29:33] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-19 22:29:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-19 22:29:35] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 10:43:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 10:43:56] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 10:44:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 10:44:08] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:22:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:22:53] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:24:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:24:32] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:24:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:24:32] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:32:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:32:17] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:32:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:32:17] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:45:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:45:43] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:45:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:45:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:53:56] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/pdotools/properties
+[2017-04-20 11:53:56] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/pdotools/properties
+[2017-04-20 11:53:56] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/pdotools/properties
+[2017-04-20 11:54:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:54:25] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:54:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:54:28] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:54:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:54:34] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:57:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:57:01] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 11:57:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 11:57:55] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:01:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:01:25] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:01:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:01:25] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:01:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:01:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:01:25] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:01:25] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:09:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:09:07] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:09:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:09:46] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:10:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:10:18] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:10:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:10:58] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:11:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:11:23] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:11:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:11:26] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:13:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:13:18] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:15:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:15:25] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:17:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:17:57] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:18:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:18:32] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:18:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:18:46] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:22:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:22:01] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:22:30] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:22:30] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:23:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:23:08] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:24:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:24:00] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:24:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:24:01] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:24:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:24:03] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:24:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:24:05] (ERROR in resource 4 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:24:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:24:07] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:26:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:26:28] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:27:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:27:10] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:32:30] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:32:30] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:33:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:33:29] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:35:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:35:08] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:36:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:36:33] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:37:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:37:42] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:38:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:38:17] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:40:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:40:33] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:40:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:40:35] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:40:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:40:39] (ERROR in resource 22 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:40:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:40:42] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:41:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:41:53] (ERROR in resource 6 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:41:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:41:53] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:41:53] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 12:41:53] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-04-20 12:48:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 12:48:35] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 13:04:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 13:04:55] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 13:36:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 13:36:36] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 13:41:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 13:41:32] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 13:47:22] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 13:47:22] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 13:47:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 13:47:29] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 13:47:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 13:47:35] (ERROR in resource 27 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:29:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:29:01] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:29:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:29:02] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:31:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:31:08] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:31:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:31:36] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:31:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:31:41] (ERROR in resource 27 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:34:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:34:21] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:34:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:34:23] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:34:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:34:25] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:35:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:35:00] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:35:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:35:09] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:35:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:35:09] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:35:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:35:15] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:37:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:37:10] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:37:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:37:10] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:37:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:37:16] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:37:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:37:19] (ERROR in resource 21 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:40:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:40:08] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:40:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:40:08] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:40:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:40:10] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:40:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:40:11] (ERROR in resource 19 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:40:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:40:15] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:40:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:40:52] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:40:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:40:54] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:41:14] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:41:14] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:41:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:41:16] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:41:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:41:18] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:41:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:41:56] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:41:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:41:56] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:41:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:41:58] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:41:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:41:58] (ERROR in resource 19 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:42:14] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:42:14] (ERROR in resource 19 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:42:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:42:45] (ERROR in resource 19 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:42:47] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:42:47] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:42:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:42:49] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:42:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:42:49] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:42:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:42:52] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:42:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:42:53] (ERROR in resource 21 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:42:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:42:57] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:43:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:43:19] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:44:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:44:56] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:45:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:45:02] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:45:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:45:26] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:45:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:45:42] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:45:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:45:46] (ERROR in resource 22 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:45:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:45:48] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:47:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:47:03] (ERROR in resource 22 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:47:06] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:47:06] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:47:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:47:46] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:48:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:48:05] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:49:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:49:02] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:49:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:49:38] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:50:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:50:17] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:50:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:50:39] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:51:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:51:09] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:52:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:52:08] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:53:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:53:02] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:53:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:53:37] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:54:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:54:15] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:54:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:54:54] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:55:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:55:51] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:56:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:56:29] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:56:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:56:31] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:56:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:56:35] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:56:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:56:35] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:56:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:56:39] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:57:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:57:21] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:57:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:57:21] (ERROR in resource 21 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:57:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:57:24] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:57:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:57:29] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:57:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:57:55] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:57:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:57:55] (ERROR in resource 19 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:58:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:58:05] (ERROR in resource 16 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 14:58:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:58:05] (ERROR @ E:\domains\homework9\core\model\modx\modresponse.class.php : 208) Attempted to redirect to an empty URL.
+[2017-04-20 14:58:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 14:58:05] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:10:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:10:45] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:11:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:11:36] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:11:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:11:36] (ERROR in resource 13 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:11:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:11:37] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:40:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:40:54] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:40:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:40:54] (ERROR in resource 13 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:40:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:40:54] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:40:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:40:55] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:41:06] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:41:06] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:41:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:41:07] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:41:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:41:08] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:41:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:41:10] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:42:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:42:15] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:42:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:42:15] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:42:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:42:17] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:44:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:44:18] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:44:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:44:18] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:44:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:44:53] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:44:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:44:53] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:48:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:48:17] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:48:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:48:17] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:48:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:48:50] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:48:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:48:50] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:50:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:50:24] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:50:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:50:25] (ERROR in resource 21 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:51:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:51:00] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:51:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:51:08] (ERROR in resource 4 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:51:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:51:10] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:51:13] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:51:13] (ERROR in resource 22 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:51:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:51:15] (ERROR in resource 23 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:51:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:51:16] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:51:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:51:19] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:52:14] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:52:14] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:52:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:52:16] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:52:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:52:33] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:52:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:52:39] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:52:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:52:39] (ERROR in resource 19 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:53:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:53:31] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:53:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:53:34] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:53:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:53:34] (ERROR in resource 21 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:53:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:53:38] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:53:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:53:42] (ERROR in resource 4 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:53:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:53:44] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:53:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:53:46] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:53:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:53:46] (ERROR in resource 19 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:58:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:58:48] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 15:58:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 15:58:51] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:22:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:22:23] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:22:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:22:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:24:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:24:27] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:24:30] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:24:30] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:28:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:28:00] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:28:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:28:55] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:41:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:41:24] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:41:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:41:32] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:49:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:49:26] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:51:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:51:23] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:52:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:52:05] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:52:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:52:09] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:57:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:57:53] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 16:59:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 16:59:05] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:00:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:00:31] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:00:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:00:43] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:00:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:00:55] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:04:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:04:33] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:06:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:06:03] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:06:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:06:15] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:06:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:06:16] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:06:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:06:20] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:06:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:06:53] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:07:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:07:51] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:07:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:07:51] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:08:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:08:44] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:08:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:08:44] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:10:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:10:11] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:10:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:10:11] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:10:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:10:49] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:10:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:10:55] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:12:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:12:17] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:12:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:12:19] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:12:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:12:25] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:12:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:12:34] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:20:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:20:41] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:21:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:21:51] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:24:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:24:09] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:25:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:25:04] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:25:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:25:39] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:27:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:27:35] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:28:30] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:28:30] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:29:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:29:25] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 17:29:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 17:29:55] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:47:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:47:57] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:48:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:48:34] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:49:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:49:29] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:51:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:51:00] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:51:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:51:37] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:54:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:54:32] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:55:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:55:51] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:56:13] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:56:13] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:57:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:57:17] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:58:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:58:38] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:58:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:58:54] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 18:59:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 18:59:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:00:06] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:00:06] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:01:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:01:09] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:01:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:01:36] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:01:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:01:58] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:01:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:01:58] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:03:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:03:29] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:03:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:03:50] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:06:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:06:20] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:07:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:07:39] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:07:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:07:53] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:08:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:08:23] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:10:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:10:19] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:11:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:11:01] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:11:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:11:49] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:15:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:15:05] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:15:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:15:44] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:18:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:18:40] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:20:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:20:37] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:21:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:21:39] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:22:30] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:22:30] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:25:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:25:15] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:31:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:31:12] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:32:22] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:32:22] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:34:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:34:10] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:34:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:34:23] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:35:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:35:44] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:36:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:36:18] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:36:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:36:46] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:47:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:47:07] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 19:58:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 19:58:23] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:00:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:00:42] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:01:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:01:04] (ERROR in resource 10 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:02:13] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:02:13] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:03:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:03:31] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:12:36] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:12:36] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:12:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:12:51] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:15:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:15:01] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:19:08] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-04-20 20:21:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:21:38] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:22:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:22:01] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:22:06] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:22:06] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:23:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:23:00] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:24:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:24:32] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:25:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:25:40] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:25:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:25:52] (ERROR in resource 18 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:25:59] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:25:59] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 20:52:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 20:52:21] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-20 21:28:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-20 21:28:02] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered

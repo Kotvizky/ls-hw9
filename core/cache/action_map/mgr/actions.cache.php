@@ -1,0 +1,67 @@
+<?php  return array (
+  1 => 
+  array (
+    'id' => '1',
+    'namespace' => 'clientconfig',
+    'controller' => 'index',
+    'haslayout' => '1',
+    'lang_topics' => 'clientconfig:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'clientconfig',
+    'namespace_path' => 'E:/domains/homework9/core/components/clientconfig/',
+    'namespace_assets_path' => '/Users/mhamstra/Sites/premium.local/ClientConfig/assets/components/clientconfig/',
+  ),
+  4 => 
+  array (
+    'id' => '4',
+    'namespace' => 'collections',
+    'controller' => 'index',
+    'haslayout' => '1',
+    'lang_topics' => 'collections:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'collections',
+    'namespace_path' => 'E:/domains/homework9/core/components/collections/',
+    'namespace_assets_path' => '{assets_path}components/collections/',
+  ),
+  2 => 
+  array (
+    'id' => '2',
+    'namespace' => 'console',
+    'controller' => 'console',
+    'haslayout' => '1',
+    'lang_topics' => 'console:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'console',
+    'namespace_path' => 'E:/domains/homework9/core/components/console/',
+    'namespace_assets_path' => '{assets_path}components/console/',
+  ),
+  3 => 
+  array (
+    'id' => '3',
+    'namespace' => 'formit',
+    'controller' => 'index',
+    'haslayout' => '1',
+    'lang_topics' => 'formit:mgr',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'formit',
+    'namespace_path' => 'E:/domains/homework9/core/components/formit/',
+    'namespace_assets_path' => '{assets_path}components/formit/',
+  ),
+  5 => 
+  array (
+    'id' => '5',
+    'namespace' => 'tagger',
+    'controller' => 'index',
+    'haslayout' => '1',
+    'lang_topics' => 'tagger:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'tagger',
+    'namespace_path' => 'E:/domains/homework9/core/components/tagger/',
+    'namespace_assets_path' => '{assets_path}components/tagger/',
+  ),
+);

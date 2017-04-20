@@ -1,0 +1,20 @@
+<?php
+return array (
+  0 => '/root',
+  1 => '/root/n_category',
+  2 => '/root/n_category/n_category_11',
+  3 => '/root/n_category/n_category_11/n_category_10',
+  4 => '/root/n_category/n_category_11/n_category_9',
+  5 => '/root/n_category/n_category_11/n_category_8',
+  6 => '/root/n_category/n_category_11/n_category_12',
+  7 => '/root/n_type_template',
+  8 => '/root/n_type_snippet',
+  9 => '/root/n_type_snippet/n_snippet_category_3',
+  10 => '/root/n_type_tv',
+  11 => '/root/n_type_snippet/n_snippet_category_13',
+  12 => '/root/n_type_chunk',
+  13 => '/root/n_type_chunk/n_chunk_category_11',
+  14 => '/root/n_type_chunk/n_chunk_category_13',
+  15 => '/root/n_type_chunk/n_chunk_category_11/n_chunk_category_9',
+  16 => '/root/n_type_chunk/n_chunk_category_7',
+);

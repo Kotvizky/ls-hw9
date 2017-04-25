@@ -222,7 +222,7 @@
   'upload_images' => 'jpg,jpeg,png,gif,psd,ico,bmp,tiff,svg,svgz',
   'upload_maxsize' => '104857600',
   'upload_media' => 'mp3,wav,au,wmv,avi,mpg,mpeg',
-  'use_alias_path' => '0',
+  'use_alias_path' => '1',
   'use_browser' => '1',
   'use_editor' => '1',
   'use_multibyte' => '1',
@@ -381,4 +381,5 @@
   'sisea.elastic.index' => 'simplesearchindex',
   'sisea.elastic.search_fields' => 'pagetitle^20,introtext^10,alias^5,content^1',
   'sisea.elastic.search_boost' => '',
+  'evxEventsPage' => '1',
 );

@@ -1,34 +1,40 @@
 <?php  return array (
   'config' => 
   array (
+    'evxEventPage' => '33',
+    'evxEventsPage' => '33',
   ),
   'aliasMap' => 
   array (
     'index/' => 1,
     'poleznaya-informacziya/' => 2,
-    'poslednie-akczii/' => 3,
+    'calendar/' => 31,
     'o-servise' => 4,
     'novosty/' => 6,
     'poisk-po-tegu' => 29,
     'poisk-po-sajtu' => 30,
-    'poleznaya-informatsiya-1' => 24,
-    'kopiya-poleznaya-informacziya' => 25,
-    'poleznaya-informacziya-3' => 26,
-    'vyiletyi-iz-stolicz/' => 12,
-    'vyiletyi-iz-regionov/' => 13,
-    'article-riga' => 8,
-    'article-airfrance' => 9,
-    'article-germany' => 10,
-    'kopiya-v-germanii-biletyi-ot-19-evro' => 22,
-    'kopiya-sezonnyie-skidki-na-avia-biletyi-v-airface' => 23,
-    'moskva-capital/' => 14,
-    'sankt-peterburg-capital/' => 15,
-    'moskva-region/' => 16,
-    'sankt-peterburg-region/' => 17,
-    'vyiletyi-iz-stolicz-1' => 18,
-    'vyiletyi-iz-stolicz-2' => 20,
-    'vyiletyi-iz-stolicz-3' => 21,
-    'vyilet-iz-stolicz' => 19,
+    'poslednie-akczii/' => 3,
+    'poleznaya-informacziya/poleznaya-informatsiya-1' => 24,
+    'poleznaya-informacziya/kopiya-poleznaya-informacziya' => 25,
+    'poleznaya-informacziya/poleznaya-informacziya-3' => 26,
+    'poslednie-akczii/vyiletyi-iz-stolicz/' => 12,
+    'poslednie-akczii/vyiletyi-iz-regionov/' => 13,
+    'novosty/article-riga' => 8,
+    'novosty/article-airfrance' => 9,
+    'novosty/article-germany' => 10,
+    'novosty/kopiya-v-germanii-biletyi-ot-19-evro' => 22,
+    'novosty/kopiya-sezonnyie-skidki-na-avia-biletyi-v-airface' => 23,
+    'poslednie-akczii/vyiletyi-iz-stolicz/moskva-capital/' => 14,
+    'poslednie-akczii/vyiletyi-iz-stolicz/sankt-peterburg-capital/' => 15,
+    'poslednie-akczii/vyiletyi-iz-regionov/moskva-region/' => 16,
+    'poslednie-akczii/vyiletyi-iz-regionov/sankt-peterburg-region/' => 17,
+    'poslednie-akczii/vyiletyi-iz-stolicz/moskva-capital/vyiletyi-iz-stolicz-1' => 18,
+    'poslednie-akczii/vyiletyi-iz-stolicz/moskva-capital/vyiletyi-iz-stolicz-2' => 20,
+    'poslednie-akczii/vyiletyi-iz-stolicz/moskva-capital/vyiletyi-iz-stolicz-3' => 21,
+    'poslednie-akczii/vyiletyi-iz-stolicz/sankt-peterburg-capital/vyilet-iz-stolicz' => 19,
+    'poslednie-akczii/vyiletyi-iz-regionov/moskva-region/moskva-region' => 36,
+    'poslednie-akczii/vyiletyi-iz-regionov/sankt-peterburg-region/akcziya-region-sankt-peterburg' => 37,
+    'calendar/single-event' => 33,
   ),
   'resourceMap' => 
   array (
@@ -36,11 +42,12 @@
     array (
       0 => 1,
       1 => 2,
-      2 => 3,
+      2 => 31,
       3 => 4,
       4 => 6,
       5 => 29,
       6 => 30,
+      7 => 3,
     ),
     2 => 
     array (
@@ -80,6 +87,18 @@
     15 => 
     array (
       0 => 19,
+    ),
+    16 => 
+    array (
+      0 => 36,
+    ),
+    17 => 
+    array (
+      0 => 37,
+    ),
+    31 => 
+    array (
+      0 => 33,
     ),
   ),
   'webLinkMap' => 
@@ -142,6 +161,11 @@
     array (
       3 => '3',
       2 => '2',
+    ),
+    'OnPageNotFound' => 
+    array (
+      10 => '10',
+      9 => '9',
     ),
     'OnPluginFormPrerender' => 
     array (
@@ -833,6 +857,105 @@ foreach ($resourcesToIndex as $resourceArray) {
 return;',
       'locked' => '0',
       'properties' => NULL,
+      'disabled' => '0',
+      'moduleguid' => '',
+      'static' => '0',
+      'static_file' => '',
+    ),
+    9 => 
+    array (
+      'id' => '9',
+      'source' => '0',
+      'property_preprocess' => '0',
+      'name' => 'EventsX',
+      'description' => 'Show single event page or JSON data of selected/current month',
+      'editor_type' => '0',
+      'category' => '15',
+      'cache_type' => '0',
+      'plugincode' => '//get id of single event page
+$eventPage = $modx->getOption(\'evxEventPage\', null, 1);
+
+//get id of events (overview) page
+$eventsPage = $modx->getOption(\'evxEventsPage\', null, 1);
+
+//get regex escaped name/url of events (overview) page without /
+$eventsPageRegex = preg_quote(trim($modx->makeUrl($eventsPage), \'/\'));
+
+//calendar item template
+$eventTpl = $modx->getOption(\'evxEventCalendarTpl\', null, \'evxEventCalendarTpl\');
+
+//JSON URI
+$jsonURI = $modx->getOption(\'evxJSON\', null, \'eventsxJSON\');
+
+//output calendar JSON
+if ($modx->event->name == \'OnPageNotFound\' && preg_match(\'/\'.$jsonURI.\'\\?.*$/\', $_SERVER[\'REQUEST_URI\']))
+{
+    $modx->getService(\'eventsx\',\'EventsX\',$modx->getOption(\'eventsx.core_path\',null,$modx->getOption(\'core_path\').\'components/eventsx/\').\'model/eventsx/\',$scriptProperties);
+
+    $month = $modx->getOption(\'month\', $_GET, date(\'m\'));
+    $year = $modx->getOption(\'year\', $_GET, date(\'Y\'));
+
+    $startdate = $year.\'-\'.$month.\'-01\';
+    $enddate = date(\'Y-m-t\',mktime(0, 0, 0, $month, 1, $year));
+    $daysInMonth = date(\'t\',mktime(0, 0, 0, $month, 1, $year));
+
+    $c = $modx->newQuery(\'evxEvent\');
+    $c->select(\'id, name, description, UNIX_TIMESTAMP(startdate) AS startTime, UNIX_TIMESTAMP(enddate) AS endTime, location, street, pc, city, country, website\');
+    $c->where(
+        array(
+            \'active\' => 1,
+            "startdate <= \'$enddate\' AND  enddate >= \'$startdate\'"
+        )
+    );
+
+    $eventDays = array();
+
+    $events = $modx->getCollection(\'evxEvent\', $c);
+    foreach($events as $event)
+    {
+        $event = $event->toArray();
+//        $event[\'url\'] = $modx->makeUrl($eventsPage).urlencode($event[\'name\']).\'/\'.$event[\'id\'];
+        $event[\'url\'] = $modx->makeUrl($eventsPage).\'/?page=\'.$event[\'id\'];
+        $event[\'html\'] = $modx->getChunk($eventTpl, $event);
+        for($i=1; $i <= $daysInMonth; $i++)
+        {
+            $dayTimestamp = mktime(0, 0, 0, $month, $i, $year);
+            if($event[\'startTime\'] <= $dayTimestamp && $event[\'endTime\'] >= $dayTimestamp)
+            {
+                $eventDays[$i][] = $event;
+            }
+        }
+    }
+
+    echo $modx->toJSON($eventDays);
+    exit;
+}
+
+//go to event page
+elseif ($modx->event->name == \'OnPageNotFound\' && preg_match(\'/\'.$eventsPageRegex.\'\\/.*\\/[0-9]+$/\', $_SERVER[\'REQUEST_URI\']))
+{
+    $modx->sendForward($eventPage);
+}',
+      'locked' => '0',
+      'properties' => 'a:0:{}',
+      'disabled' => '0',
+      'moduleguid' => '',
+      'static' => '0',
+      'static_file' => '',
+    ),
+    10 => 
+    array (
+      'id' => '10',
+      'source' => '1',
+      'property_preprocess' => '0',
+      'name' => 'EventRoute',
+      'description' => 'планги для отображения событий при ЧПУ',
+      'editor_type' => '0',
+      'category' => '0',
+      'cache_type' => '0',
+      'plugincode' => 'echo \'Test event\';',
+      'locked' => '0',
+      'properties' => 'a:0:{}',
       'disabled' => '0',
       'moduleguid' => '',
       'static' => '0',

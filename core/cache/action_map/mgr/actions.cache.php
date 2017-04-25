@@ -38,6 +38,19 @@
     'namespace_path' => 'E:/domains/homework9/core/components/console/',
     'namespace_assets_path' => '{assets_path}components/console/',
   ),
+  6 => 
+  array (
+    'id' => '6',
+    'namespace' => 'eventsx',
+    'controller' => 'index',
+    'haslayout' => '1',
+    'lang_topics' => 'eventsx:default,file',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'eventsx',
+    'namespace_path' => 'E:/domains/homework9/core/components/eventsx/',
+    'namespace_assets_path' => '',
+  ),
   3 => 
   array (
     'id' => '3',

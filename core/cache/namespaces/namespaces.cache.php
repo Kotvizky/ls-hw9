@@ -35,6 +35,12 @@
     'path' => 'E:/domains/homework9/manager/',
     'assets_path' => 'E:/domains/homework9/manager/assets/',
   ),
+  'eventsx' => 
+  array (
+    'name' => 'eventsx',
+    'path' => 'E:/domains/homework9/core/components/eventsx/',
+    'assets_path' => '',
+  ),
   'formit' => 
   array (
     'name' => 'formit',

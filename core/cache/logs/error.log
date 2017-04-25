@@ -1073,3 +1073,850 @@
 [2017-04-20 20:52:21] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
 [2017-04-20 21:28:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
 [2017-04-20 21:28:02] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:08:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:08:28] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:08:47] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:08:47] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:11:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:11:26] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:12:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:12:27] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:12:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:12:49] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:20:22] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:20:22] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:20:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:20:26] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:20:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:20:28] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:20:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:20:32] (ERROR in resource 4 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:20:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:20:34] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:21:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:21:54] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:21:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:21:55] (ERROR in resource 4 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:23:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:23:12] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:23:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:23:15] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:23:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:23:19] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:23:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:23:45] (ERROR in resource 24 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-21 00:36:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-21 00:36:39] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 09:59:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 09:59:20] (ERROR in resource 20 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 10:08:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 10:08:10] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 10:13:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 10:13:24] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 10:20:13] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 10:20:13] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 10:20:15] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 10:20:15] (ERROR in resource 30 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 10:20:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 10:20:52] (ERROR in resource 30 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 10:21:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 10:21:12] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 10:21:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 10:21:24] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 11:54:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 11:54:38] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 11:56:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 11:56:38] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-22 12:01:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-22 12:01:21] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 09:59:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 09:59:34] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:00:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:00:05] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:00:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:00:55] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:01:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:01:18] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:02:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:02:12] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:02:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:02:41] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:03:14] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:03:14] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:03:47] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:03:47] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:04:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:04:07] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:05:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:05:55] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:06:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:06:11] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:08:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:08:01] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:08:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:08:54] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:14:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:14:58] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:19:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:19:05] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:19:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:19:21] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:23:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:23:44] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-23 10:23:51] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-23 10:23:51] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 22:15:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 22:15:35] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 22:24:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 22:24:05] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 22:25:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 22:25:29] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 22:27:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 22:27:20] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 22:34:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 22:34:55] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 22:41:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 22:41:37] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 22:59:22] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 22:59:22] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 22:59:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 22:59:31] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:07:22] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:07:22] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:08:22] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:08:22] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:10:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:10:31] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:10:59] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:10:59] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:11:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:11:50] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:12:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:12:25] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:16:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:16:10] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:17:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:17:17] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:17:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:17:50] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:18:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:18:10] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:18:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:18:41] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:19:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:19:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:19:25] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:19:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:19:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:19:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:20:23] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:20:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:20:23] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:20:23] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:20:23] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:20:23] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:21:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:21:03] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:21:06] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:21:06] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:21:06] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:21:07] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:21:07] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:21:07] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:21:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:21:28] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:21:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:21:49] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:22:13] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:22:13] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:22:24] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:22:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:22:24] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:22:24] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:22:24] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:22:24] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:22:53] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:22:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:22:53] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:22:53] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:22:53] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:22:53] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:22:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:22:58] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:23:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:23:12] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:23:15] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:23:15] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:23:15] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:23:15] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-24 23:26:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:26:00] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-24 23:26:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-24 23:26:03] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 11:48:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 11:48:50] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 11:48:51] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 11:48:51] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 11:49:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 11:49:41] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 11:49:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 11:49:44] (ERROR in resource 21 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 11:49:44] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 11:51:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 11:51:18] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 11:51:54] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 11:51:55] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 11:51:55] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 11:51:55] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:03:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:03:42] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:04:28] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:04:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:04:28] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:04:29] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:04:29] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:04:29] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:22:41] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:22:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:22:41] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:22:49] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:23:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:23:04] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:23:19] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:23:19] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:23:19] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:23:19] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:01] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:46:01] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:46:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:01] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:01] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:01] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:03] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:38] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:46:38] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:46:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:39] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:39] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:46:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:46:39] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:47:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:47:09] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:47:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:47:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:47:09] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:47:09] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:47:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:47:09] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:48:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:48:53] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:48:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:48:53] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:48:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:48:53] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:48:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:48:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:48:53] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:48:53] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:48:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:48:58] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:51:46] (ERROR @ E:\domains\homework9\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-04-25 12:55:30] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:55:30] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:57:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:57:35] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:57:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:57:35] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:57:35] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:57:35] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:57:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:57:40] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:57:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:57:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:57:41] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:57:41] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:57:41] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:57:41] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:01] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:01] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:58:05] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:58:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:05] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:05] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:20] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:20] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:20] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:20] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:32] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:32] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:42] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:42] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:45] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:45] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:50] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:50] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:50] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:58:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:58:50] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:59:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:59:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:59:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:59:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:59:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:08] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:59:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:59:42] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:59:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:47] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:59:47] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:59:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:52] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:59:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 12:59:52] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 12:59:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:52] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:59:52] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 12:59:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 12:59:52] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'p'
+[2017-04-25 13:00:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:06:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 13:06:58] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 13:06:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:08:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 13:08:32] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 13:08:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:08:44] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 13:08:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:08:48] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 61) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 13:08:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 13:08:55] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 13:08:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:10:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:14:55] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 13:14:55] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 13:14:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:19:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:19:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:20:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 13:20:08] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 13:20:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 13:20:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 13:20:16] (ERROR in resource 32 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 15:55:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 15:55:25] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 15:55:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 15:59:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 15:59:18] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 15:59:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:00:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:00:34] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:00:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:02:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:02:50] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:02:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:05:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:05:17] (ERROR in resource 32 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:06:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:06:54] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:06:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:07:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:07:17] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:07:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:08:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:08:38] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:08:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:10:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:10:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:10:54] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:10:54] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:13:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:13:02] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:13:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:13:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:13:33] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:13:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:13:48] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:14:14] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:14:14] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:18:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:18:09] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:18:29] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:18:29] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:19:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:19:11] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:19:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:19:19] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:19:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:19:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:19:23] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:19:23] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:20:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:20:46] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:20:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:17] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:17] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:17] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:17] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:17] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:17] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:17] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:18] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:18] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:18] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:18] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:18] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:18] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:18] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:19] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:19] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:19] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:19] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:19] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:19] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:19] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:20] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:20] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:20] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:20] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:20] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:20] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:20] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:20] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:24] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:24] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:24] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:24] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:24] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:24] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:25] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:25] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:25] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:25] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:25] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:25] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:25] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:26] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:26] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:26] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:26] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:26] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:26] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:26] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:27] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:27] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:27] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:27] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:27] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:27] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:28] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:28] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:28] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:33] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:33] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:22:37] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:22:37] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:22:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:22:40] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:22:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:23:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:08] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:08] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:08] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:08] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:08] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:09] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:09] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:09] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:09] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:09] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:09] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:09] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:10] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:10] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:10] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:10] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:10] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:10] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:11] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:11] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:11] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:11] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:11] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:11] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:12] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:12] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'o'
+[2017-04-25 16:23:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:23:34] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:23:34] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:24:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:24:52] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:24:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:24:52] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:24:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:24:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:24:52] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:24:52] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:24:52] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:24:52] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:02] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:02] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:02] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:02] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:02] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:02] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:02] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:03] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:03] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:03] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:03] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:03] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:03] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:03] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:04] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:04] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:04] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:04] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:04] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:04] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:04] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:05] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:05] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:05] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:05] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:25:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:25:05] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:25:05] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modsnippet\31.include.cache.php : 12) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:26:47] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:26:47] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:27:39] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:27:39] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:31:00] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:31:00] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:31:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:31:16] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:37:50] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:37:50] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:38:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:38:48] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:38:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:40:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:40:11] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:40:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:46:25] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:46:25] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:46:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:46:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:46:42] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:46:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:46:43] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:46:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:46:43] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:46:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:46:43] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:46:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:46:43] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:47:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:47:40] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:47:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:48:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:48:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:48:31] (ERROR in resource 31 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:48:32] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:48:42] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:48:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:48:44] (ERROR in resource 33 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:48:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:48:48] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:48:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:48:53] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:53:07] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:53:07] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:53:11] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:53:11] (ERROR in resource 2 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:53:14] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:53:14] (ERROR in resource 4 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:53:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:53:21] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:53:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:53:21] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:53:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:53:21] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:57:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:57:56] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:58:01] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:58:01] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:58:04] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:58:04] (ERROR in resource 22 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:59:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:59:57] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:59:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 16:59:58] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 16:59:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:59:58] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:59:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:59:58] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 16:59:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 16:59:58] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 17:08:24] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:08:24] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:08:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:08:26] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:08:27] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:08:27] (ERROR in resource 21 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:08:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:08:40] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:08:40] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:08:40] (ERROR in resource 19 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:08:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:08:46] (ERROR in resource 16 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:08:46] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:08:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:08:49] (ERROR in resource 17 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:08:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:10:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:10:12] (ERROR in resource 16 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:10:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:10:12] (ERROR in resource 36 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:10:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:10:12] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:10:30] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:10:30] (ERROR in resource 14 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:10:31] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:10:31] (ERROR in resource 21 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:11:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:11:05] (ERROR in resource 16 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:11:05] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:11:05] (ERROR in resource 36 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:11:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:11:16] (ERROR in resource 15 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:11:16] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:11:16] (ERROR in resource 19 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:12:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:12:43] (ERROR in resource 17 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:12:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:12:43] (ERROR in resource 37 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:12:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:12:44] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:13:17] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:13:17] (ERROR in resource 37 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:13:21] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:13:21] (ERROR in resource 4 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:13:22] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:13:22] (ERROR in resource 9 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:13:26] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:13:26] (ERROR in resource 3 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:13:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 17:13:45] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 17:13:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:13:45] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:13:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 17:13:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 17:13:45] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 17:13:45] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 17:13:45] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 17:13:45] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 17:13:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 17:13:49] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 17:13:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 17:13:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 17:13:49] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 17:13:49] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 17:13:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 17:13:49] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
+[2017-04-25 17:14:12] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:14:12] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:18:56] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:18:56] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:18:58] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:18:58] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:19:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:19:03] (ERROR in resource 25 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:19:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:19:10] (ERROR in resource 22 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:28:49] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:28:49] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:28:57] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:28:57] (ERROR in resource 30 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:30:03] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:30:03] (ERROR in resource 1 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:30:10] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:30:10] (ERROR in resource 30 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:30:38] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:30:38] (ERROR in resource 8 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:30:44] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 991) `[[+id]]` is not a valid integer and may not be passed to makeUrl()
+[2017-04-25 17:30:44] (ERROR in resource 29 @ E:\domains\homework9\core\model\modx\modparser.class.php : 1353) Bad link tag `[[~[[+id]]]]` encountered
+[2017-04-25 17:32:43] (ERROR @ E:\domains\homework9\core\model\modx\modx.class.php : 1613) [OnPageNotFound]Test event
+[2017-04-25 17:32:43] (ERROR @ E:\domains\homework9\core\cache\includes\elements\modplugin\9.include.cache.php : 62) PHP warning: preg_match(): Unknown modifier 'n'
